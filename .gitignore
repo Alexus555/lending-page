@@ -1,0 +1,12 @@
+.idea/
+Build
+
+nodu_modules
+npm-debug.log
+.DS_store
+
+Thumbs.dt
+
+Desktop.ini
+
+$RECYCLE.BIN
