@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Alexus555/lending-page#readme",
   "devDependencies": {
+    "acorn": "^7.1.1",
     "autoprefixer": "^9.7.6",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
