@@ -24,6 +24,6 @@ If you can see the version, then everything alright, otherwise, you should insta
 
 > npm install
 
-It install all packages and their depenpencies which are listed in package.json file
+It instals all packages and their depenpencies which are listed in package.json file
 
 
