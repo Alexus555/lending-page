@@ -31,10 +31,10 @@ gulp.task('templates:compile', function buildHTML() {
   });
 
 
-// Style compile
+// Style compile {outputStyle: 'compressed'}
 gulp.task('styles:compile', function () {
   return gulp.src('source/styles/main.scss')
-    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(sass().on('error', sass.logError))
     .pipe(rename('main.min.css'))
     .pipe(gulp.dest('build/css'));
 });
