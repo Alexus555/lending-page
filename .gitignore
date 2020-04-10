@@ -1,7 +1,6 @@
 .idea/
-Build
+build
 
-nodu_modules
 npm-debug.log
 .DS_store
 
@@ -10,3 +9,5 @@ Thumbs.dt
 Desktop.ini
 
 $RECYCLE.BIN
+node_modules
+landing-materials.zip
