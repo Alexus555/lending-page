@@ -28,6 +28,14 @@
         font-family: $ff-main-light;
     }
 
+    @media (max-width: 700px) {
+
+        padding: 100px 20px;
+
+        min-height: inherit;
+
+    }
+
     .botton--text--uppercase {
 
         padding: 21px 41px;
